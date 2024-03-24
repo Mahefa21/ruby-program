@@ -6,7 +6,7 @@
 
 La version utilisée est 2.7.4.
 
-Voici le lien d'installation sous Windows : https://www.ruby-lang.org/en/downloads/releases/
+Voici le lien d'installation sous Windows : https://www.ruby-lang.org/en/downloads/releases/ \n
 Vérification de la version de ruby installée : **ruby -v**
 Git : https://git-scm.com/ 
 vsCode : https://code.visualstudio.com/
