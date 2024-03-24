@@ -6,9 +6,9 @@
 
 La version utilisée est 2.7.4.
 
-Voici le lien d'installation sous Windows : https://www.ruby-lang.org/en/downloads/releases/ \n
-Vérification de la version de ruby installée : **ruby -v**
-Git : https://git-scm.com/ 
+Voici le lien d'installation sous Windows : https://www.ruby-lang.org/en/downloads/releases/ \
+Vérification de la version de ruby installée : **ruby -v** \
+Git : https://git-scm.com/ \
 vsCode : https://code.visualstudio.com/
 
 ---
@@ -17,7 +17,7 @@ vsCode : https://code.visualstudio.com/
 
 Voici les étapes pour exécuter la programment.
 
-1. Créer un document dans votre ordinateur, ouvrir un terminal et exécuter ceci **git clone https://Charly_@bitbucket.org/top-test-tech/test-conge.git**.
+1. Créer un document dans votre ordinateur, ouvrir un terminal et exécuter ceci *git clone https://Charly_@bitbucket.org/top-test-tech/test-conge.git*.
 2. Enter dans le document **test-congé**.
 3. Ouvrir un nouveau terminal dans ce fichier et exécuter cette commande **ruby main.rb**.
 
@@ -37,7 +37,7 @@ Voici les étapes pour modifier les entrées.
 ## Structure des dossiers et fichiers
 
 Voici la représentation des dossiers:
-
+```
 --classes
   |________Contract.rb
   |________List.rb
@@ -47,6 +47,6 @@ Voici la représentation des dossiers:
   |________Utility.rb
 --main.rb
 --README.md
-
+```
 ---
 
