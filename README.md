@@ -13,16 +13,6 @@ La version utilisée est 2.7.4.
 
 ---
 
-## Exécution
-
-Voici les étapes pour exécuter la programment.
-
-1. Créer un document dans votre ordinateur, ouvrir un terminal et exécuter ceci *git clone https://Charly_@bitbucket.org/top-test-tech/test-conge.git*.
-2. Enter dans le document **test-congé**.
-3. Ouvrir un nouveau terminal dans ce fichier et exécuter cette commande **ruby main.rb**.
-
----
-
 ## Modification des valeurs d'entrée
 
 Voici les étapes pour modifier les entrées.
